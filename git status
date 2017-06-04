@@ -1,0 +1,47 @@
+[33mcommit b3556c900bfa62ad33be312cccd234ea7bddf587[m
+Author: daniasoto <daniasoto9601@gmail.com>
+Date:   Thu May 25 12:38:48 2017 +0200
+
+    Despliegue en Heroku
+
+[33mcommit 8204a5fb4f3e65952c285b72d91cc277fadd6523[m
+Author: Santiago Pavon <santiago@dit.upm.es>
+Date:   Wed Mar 22 11:39:12 2017 +0100
+
+    Tema 6 - Despliegue en Heroku.
+
+[33mcommit 395361ed06c6092a08855ee64141454c6f568987[m
+Author: Santiago Pavon <santiago@dit.upm.es>
+Date:   Tue Mar 21 15:32:51 2017 +0100
+
+    Tema 5 - Diseño Adaptativo.
+
+[33mcommit b3275e61b91160a022e49c91029bdfc2d5b77f2e[m
+Author: Santiago Pavon <santiago@dit.upm.es>
+Date:   Tue Mar 21 15:20:01 2017 +0100
+
+    Tema 4 - Crear marco de aplicación.
+
+[33mcommit 91237ebdc9eaa164db83e116ec779e9cc4b31266[m
+Author: Santiago Pavon <santiago@dit.upm.es>
+Date:   Tue Mar 21 14:32:02 2017 +0100
+
+    Tema 3 - Añadir Pagina de Creditos.
+
+[33mcommit 49fe479cd28bf8845e8420029da55be52b8d2c6d[m
+Author: Santiago Pavon <santiago@dit.upm.es>
+Date:   Tue Mar 21 14:00:30 2017 +0100
+
+    Tema 2 - Cambiar titulo de la pagina Home, Eliminar recurso User y Añadir favicon.
+
+[33mcommit 4f66ca0999adcb3192474bf84bcb11050c91346f[m
+Author: Santiago Pavon <santiago@dit.upm.es>
+Date:   Tue Mar 21 12:56:41 2017 +0100
+
+    Tema 1 - Esqueleto
+
+[33mcommit 7cdb45cc1cb99fd3379b0c0f0055f344ba53f481[m
+Author: Santiago Pavón <santiago@dit.upm.es>
+Date:   Tue Mar 21 12:38:29 2017 +0100
+
+    Initial commit

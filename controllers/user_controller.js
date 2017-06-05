@@ -25,7 +25,7 @@ exports.load = function (req, res, next, userId) {
 // GET /users
 exports.index = function (req, res, next) {
 
-    models.User.count()
+    models.User.count()//se busca el numero de usuarios total
     .then(function (count) {
 
         // Paginacion:

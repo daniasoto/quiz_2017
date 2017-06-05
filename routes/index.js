@@ -37,20 +37,15 @@ router.get(/(?!\/new$|\/edit$|\/play$|\/check$|\/session$|\/(\d+)$)\/[^\/]*$/, f
 //-----------------------------------------------------------
 
 /* GET home page. */
-<<<<<<< HEAD
-router.get('/', function (req, res, next) {
-=======
+
 router.get('/', function(req, res, next) {
     if(req.session.randomplay){
         req.session.randomplay.resolved=[];
     }
->>>>>>> practica52
     res.render('index');
 });
 
 // Pagina de creditos
-
-router.get('/author', function (req, res, next) {
 router.get('/author', function(req, res, next) {
     if(req.session.randomplay){
         req.session.randomplay.resolved=[];
